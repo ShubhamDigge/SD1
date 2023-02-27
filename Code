@@ -1,10 +1,6 @@
-<html>
-<head>
-</head>
-<body>
+
       Myself Shubham...
       My location is Pune.
-      
-</body>
-</html>
+      driver.manage().window().maximize();
+      WebDriver driver = new ChromDriver();
 
